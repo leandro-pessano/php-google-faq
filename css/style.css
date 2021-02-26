@@ -71,6 +71,7 @@ header nav.bottom ul li {
 }
 
 header nav.bottom ul li:last-child {
+  color: #3367D6;
   border-bottom: 3px solid #3367D6;
 }
 
